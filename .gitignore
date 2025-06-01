@@ -2,3 +2,4 @@ c/*.exe
 python/*.txt
 rust/*.pdb
 rust/*.exe
+rust/*.txt
